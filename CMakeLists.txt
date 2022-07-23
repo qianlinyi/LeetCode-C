@@ -9,4 +9,4 @@ add_executable(0004 "LeetCode 0004 寻找两个正序数组的中位数.cpp")
 add_executable(0005 "LeetCode 0005 最长回文子串.cpp")
 add_executable(0006 "LeetCode 0006 Z 字形变换.cpp")
 add_executable(0008 "LeetCode 0008 字符串转换整数 (atoi).cpp")
-
+add_executable(0010 "LeetCode 0010 正则表达式匹配.cpp")
